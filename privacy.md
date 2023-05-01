@@ -17,13 +17,16 @@ All visitors (this data is annonymous):
 - Links clicked on our website
 - IP
 
-Signed up members:
+Members:
 - Name
 - Public Display name
 - Email address
 - Geo-location (explicityly consented to in app)
 - Date and time of visit
 - Links clicked on our website (when explicityly enabled)
+- Created communities
+- Feed posts
+- Reports
 
 ## How Do We Use Your Information?
 
