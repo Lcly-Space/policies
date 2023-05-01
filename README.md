@@ -1,2 +1,6 @@
-# policies
-Public policies for the Lcly platform and org.
+# Policies
+Public policies for the Lcly platform and organisation.
+
+- Privacy Policy
+- Terms of use
+- License
